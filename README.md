@@ -1,1 +1,1 @@
-# cs61a_lab00
+lab00 from Berkeley cs61a
